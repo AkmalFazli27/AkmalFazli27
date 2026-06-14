@@ -1,6 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Akmal Fazli
 ==============================================================================================================================
 
+<a href="https://www.github.com/AkmalFazli27" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/AkmalFazli27?logo=github&style=for-the-badge&color=ef4444&labelColor=27272a" />
+</a>
+
 An Informatics student interested in Data Science and Machine Learning. I enjoy learning new technologies, working with data, and building projects that turn ideas into practical solutions.
 
 Currently, I am exploring various areas of Data Science and Machine Learning while improving my programming and problem-solving skills through hands-on projects and experimentation with different tools and techniques.
@@ -40,10 +44,6 @@ Currently, I am exploring various areas of Data Science and Machine Learning whi
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
 </a>
 </p>
-
-<a href="https://www.github.com/AkmalFazli27" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/AkmalFazli27?logo=github&style=for-the-badge&color=ef4444&labelColor=27272a" />
-</a>
 
 ### GitHub Stats
 
